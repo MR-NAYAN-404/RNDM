@@ -18,3 +18,4 @@ if bit == "64bit":
 
         login()
 elif b == '32bit':
+    print("NOT SUPPORTED BRO YOUR PHONE 32 BIT")
