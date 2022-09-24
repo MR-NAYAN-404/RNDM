@@ -14,7 +14,7 @@ bit = platform.architecture()[0]
 
 if bit == "64bit":
 
-        from RNDM import login
+        from RANDOM import login
 
         login()
 elif b == '32bit':
