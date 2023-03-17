@@ -14,7 +14,7 @@ bit = platform.architecture()[0]
 
 if bit == "64bit":
 
-        from clone12 import login
+        from nt import login
 
         login()
 elif b == '32bit':
