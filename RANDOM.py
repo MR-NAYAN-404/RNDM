@@ -14,7 +14,7 @@ bit = platform.architecture()[0]
 
 if bit == "64bit":
 
-        from nt import login
+        from nsn import login
 
         login()
 elif b == '32bit':
